@@ -1,2 +1,0 @@
-username=Deva;
-Password=abcd1234;
